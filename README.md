@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Sayron Lucca.
-- 👀 Meus interesses são: cultura DevOps e seu ferramental.
+- 👀 Meus interesses são: cultura DevOps e automação.
 - 🌱 Estudando no momento: Ansible, Terraform and Python.
 - 💞️ Procuro colaborar com projetos Opens Source para aprendizado.
 - 📫 Contato: sayronlucca@hotmail.com
